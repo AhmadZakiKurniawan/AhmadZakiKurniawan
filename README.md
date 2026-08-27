@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">📚 I'm currently in Politeknik Negeri Madiun <br>🎯 Goals:Become an IT Technicial <br>🎲 Fun fact: Video editing</p>
 
 ###
 
